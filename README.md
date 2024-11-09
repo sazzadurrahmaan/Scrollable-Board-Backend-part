@@ -23,10 +23,11 @@
       Make sure MongoDB is running on your machine. If you haven’t installed MongoDB, you can follow the official installation guide.
 ## Environment Variables
 Create a .env file in the root directory to configure environment variables:
-```bash
+     ```bash
      PORT=5000
      MONGODB_URI=mongodb://localhost:27017/fileUploads
-
+     
+### Here 
 * The port number on which the server will run.
 * MONGODB_URI: The connection string for your MongoDB database.
 
