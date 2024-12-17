@@ -68,5 +68,5 @@ After setting up your environment variables, start the server:
     *  cors : Middleware for handling CORS (Cross-Origin Resource Sharing).
 
 ## Here is the Frontend part of the project :
-### https://github.com/sazzadurrahmaan/Seopage1-Frontend-Developer-Task
+### https://github.com/sazzadurrahmaan/Scrollable-Board-Frontend
     
